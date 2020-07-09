@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4" dataversion="20200528" release="1.57|CoreRPG:4">
+	<referencerole>
+		<id-00001>
+			<locked type="number">1</locked>
+			<name type="string">Rockerboy</name>
+			<text type="formattedtext">
+				<h>REBEL ROCKERS WHO USE MUSIC AND REVOLT TO FIGHT AUTHORITY</h>
+				<p>If you live to rock, this is where you belong. Rockerboys are the street poets, social consciences and rebels of the 2000's. With the advent of digital porta-studios and garage laser disk mastering, every Rocker with a message can take it to the street; put it in the record stores, bounce it off the comsats.</p>
+				<p>Sometimes, this message isn't something the Corporations or the Government wants to hear. Sometimes what you say is going to get right in the faces of the powerful people who really run this world. Butyou don't care, because as a Rockerboy, you know it's your place to challenge authority, whether in straight-out protest songs that tell it like it is, or just by playing kick-ass rock n' roll to get the people away from the TV sets and into the Streets. You have a proud history as a Rockerboy—Dylan, Springsteen, Who, Elvis, the Stones—the legions of hardrock heroes who told the truth with screaming guitars and gut-honest lyrics.</p>
+				<p>As a Rockerboy, you have the power to get the people up—to lead, inspire and inform. A song from you can give the timid courage, the weak stren-gth, and the blind vision. </p>
+				<p>Rockerboy legends have led armies against Corpo­rations and Governments. Rockerboy songs have ex­posed corruption, brought down dictators. It's a lot of power for a guy doing gigs every night in another city. But you can handle it. After all—you came to play!</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00005@Cyberpunk 2020 - Skills">Charismatic Leadership</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00062@Cyberpunk 2020 - Skills">Perform</link>
+					<link class="skill" recordname="skill.id-00012@Cyberpunk 2020 - Skills">Wardrobe &amp; Style</link>
+					<link class="skill" recordname="skill.id-00075@Cyberpunk 2020 - Skills">Composition</link>
+					<link class="skill" recordname="skill.id-00043@Cyberpunk 2020 - Skills">Brawling</link>
+					<link class="skill" recordname="skill.id-00023@Cyberpunk 2020 - Skills">Play Instrument</link>
+					<link class="skill" recordname="skill.id-00060@Cyberpunk 2020 - Skills">Streetwise</link>
+					<link class="skill" recordname="skill.id-00063@Cyberpunk 2020 - Skills">Persuasion &amp; Fast Talk</link>
+					<link class="skill" recordname="skill.id-00065@Cyberpunk 2020 - Skills">Seduction</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00001>
+		<id-00002>
+			<locked type="number">1</locked>
+			<name type="string">Solo</name>
+			<text type="formattedtext">
+				<h>HIRED ASSASSINS, BODYGUARDS, KILLERS, SOLDIERS</h>
+				<p>You were re-born with a gun in your hand—the flesh and blood hand, not the metallic weapons factory that covers most of your other arm. Whether as a freelance guard and killer­for-hire, or as one of the Corporate cybersoldiers that enforce business deals and the Company's "black operations", you're one of the elite fighting machines of the Cyberpunk world.</p>
+				<p>Most Solos have put in military time, either in a Corporate army or in one of the Government's continual "police actions" around the world. As the battle dam­age piles up, you start to rely more and more upon hardware—cyber­limbs for weapons and armor, bio-program chips to increase your reflexes and awareness, combat drugs to give you that edge over your opponents. When you're the best of the best, you might even leave the ranks of Corporate samurai and go ronin—freelancing your lethal talents as killer, body­guard or enforcer to whoever can pay your very high fees.</p>
+				<p>Sounds good? There's a price—a heavy one.</p>
+				<p>You've lost so much of your original meat body that you're almost a machine. Your killing reflexes are so jacked up thatyou have to restrain yourself from going beserk at any moment. Years of combat drugs taken to keep the edge have given you terrifying addictions. You can't trust anyone—your mother, your friends, your lovers—no one. One night you sleep in a penthouse condo in the City—the next in a filthy alley on the Street. But that's the price of being the best.</p>
+				<p>And you're willing to pay it. Because you're a Solo.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00001@Cyberpunk 2020 - Skills">Combat Sense</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00050@Cyberpunk 2020 - Skills">Handgun</link>
+					<link class="skill" recordname="skill.id-00043@Cyberpunk 2020 - Skills">Brawling</link>
+					<link class="skill" recordname="skill.id-00049@Cyberpunk 2020 - Skills">Martial Arts *</link>
+					<link class="skill" recordname="skill.id-00048@Cyberpunk 2020 - Skills">Melee</link>
+					<link class="skill" recordname="skill.id-00022@Cyberpunk 2020 - Skills">Weaponsmith</link>
+					<link class="skill" recordname="skill.id-00038@Cyberpunk 2020 - Skills">Rifle</link>
+					<link class="skill" recordname="skill.id-00034@Cyberpunk 2020 - Skills">Athletics</link>
+					<link class="skill" recordname="skill.id-00036@Cyberpunk 2020 - Skills">Submachinegun</link>
+					<link class="skill" recordname="skill.id-00037@Cyberpunk 2020 - Skills">Stealth</link>
+				</linklist>
+				<list>
+					<li>Brawling OR Martial Arts</li>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00002>
+		<id-00003>
+			<locked type="number">1</locked>
+			<name type="string">Netrunner</name>
+			<text type="formattedtext">
+				<h>CYBERNETIC COMPUTER HACKERS</h>
+				<p>At three, your parents bought you an old Apple IV GS with a Radius 241 wall screen, and your life was changed. By fifth grade, you'd already mastered everything the school computer literacy lab could throw at you—you were already using C and META-LINGUA to crack into the district's mainframe and change your grades. When you were thirteen, you shifted enough funds out of unprotected TransAmerican Bank accounts to finance your first neural interface plugs.</p>
+				<p>Now, nothing can stop you. With your direct mental link to the computer, you can plunge headfirst into the dizzying data-winds of the Net; the worldwide telecommunications system that joins humanity together. As an electronic wraith, you are the ultimate "hacker", your brain wired into special modems and computer links. You slip into the "hardest" mainframe systems with ease. Your defense and offense programs are arrayed at a touch of your mental fingertips—a quick jolt of Demon or Vampire and the data fortresses fall. EBM. ITT. Sony­Matsushita-Ford. You've tackled them all, buying, trading and selling their deepest secrets at will.</p>
+				<p>Sometimes you uncover important things—Corporate treachery or deadly secrets. But that's not why you Netrun. You live for the new program, the next satellite downlink—the next piece of hot data that comes your way. It's only a matter of time, you think—every year, the counter intrustion programs get better, the Artificial Intelligences smarter. Sooner or later, a faster program or programmer's going to catch up; reach out with electronic fingers through your interface plugs, and stop your heart. But time's on your side, and until the ride runs out, you'll be there, barebrained and headfirst in the Net.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00004@Cyberpunk 2020 - Skills">Interface</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00015@Cyberpunk 2020 - Skills">Basic Tech</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00090@Cyberpunk 2020 - Skills">System Knowledge</link>
+					<link class="skill" recordname="skill.id-00031@Cyberpunk 2020 - Skills">CyberTech</link>
+					<link class="skill" recordname="skill.id-00032@Cyberpunk 2020 - Skills">Cyberdeck Design</link>
+					<link class="skill" recordname="skill.id-00075@Cyberpunk 2020 - Skills">Composition</link>
+					<link class="skill" recordname="skill.id-00028@Cyberpunk 2020 - Skills">Electronics</link>
+					<link class="skill" recordname="skill.id-00087@Cyberpunk 2020 - Skills">Programming</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00003>
+		<id-00004>
+			<locked type="number">1</locked>
+			<name type="string">Techie/Medtechie</name>
+			<text type="formattedtext">
+				<h>RENEGADE MECHANICS AND DOCTORS</h>
+				<p>You can't leave anything alone—if it sits near you for more than five minutes, you've disassembled it and made it into something new. You've always got at least two screwdrivers and a wrench in your pockets. Computer down? No prob­lem. Hydrogen burner out in your Metrocar? No prob­lem. Can't get the video to run or your interface plugs feedbacking? No problem.</p>
+				<p>You make your living build­ing, fixing and modifying—a crucial occupation in a technological world where no one person really knows how half the stuff works. You can make some good bucks fixing everyday stuff, but for the serious money, you need to tackle the big jobs. Illegal weapons. Illegal or stolen cybertech. Corporate espionage and counterespionage gear for the big boys' "black operations". Neat little gadgets like thermite bombs and and hunter-killer robots for the occasional "termination."</p>
+				<p>If you're any good, you're making a lot of money. And that money goes into new gadgets, hardware and information. You'll buy almost any new thing—because it might have a dozen side applications you can use. Of course, your black market work isn't just making you friends—it's also racking you up an impressive number of enemies as well; people who've run into your handiwork and resented it. So you'll invest a lot in defense systems and, if really pushed to the wall, call in a few markers on a Solo or two.</p>
+				<p>Your cousin down the street is just like you, but he's a Medtechie. In a world where half of medicine is related to mechanics, it makes sense. He can do a black market surgical technique faster than you can fix a toaster, and the Solos are always running to him to patch up wounds or install new illegal cybernetics. He's got a lot of the same problems you have, but he's hoping his new job with Trauma Team Inc."' will loosen things up. You hope he's right. You may be needing his services sooner than you think.</p>
+				<h>Techie Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00008@Cyberpunk 2020 - Skills">Jury Rig</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00015@Cyberpunk 2020 - Skills">Basic Tech</link>
+					<link class="skill" recordname="skill.id-00031@Cyberpunk 2020 - Skills">CyberTech</link>
+					<link class="skill" recordname="skill.id-00091@Cyberpunk 2020 - Skills">Teaching</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00028@Cyberpunk 2020 - Skills">Electronics</link>
+				</linklist>
+				<list>
+					<li>Any three other Tech Skills</li>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+				<p>MedTech Career Skills</p>
+				<linklist>
+					<link class="skill" recordname="skill.id-00009@Cyberpunk 2020 - Skills">Medical Tech</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00015@Cyberpunk 2020 - Skills">Basic Tech</link>
+					<link class="skill" recordname="skill.id-00076@Cyberpunk 2020 - Skills">Diagnose Illness</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00016@Cyberpunk 2020 - Skills">Cryotank Operation</link>
+					<link class="skill" recordname="skill.id-00084@Cyberpunk 2020 - Skills">Library Search</link>
+					<link class="skill" recordname="skill.id-00025@Cyberpunk 2020 - Skills">Pharmaceuticals</link>
+					<link class="skill" recordname="skill.id-00092@Cyberpunk 2020 - Skills">Zoology</link>
+					<link class="skill" recordname="skill.id-00061@Cyberpunk 2020 - Skills">Human Perception</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00004>
+		<id-00005>
+			<locked type="number">1</locked>
+			<name type="string">Media</name>
+			<text type="formattedtext">
+				<h>NEWSMEN AND REPORTERS WHO GO TO THE WALL FOR THE TRUTH</h>
+				<p>They're bending the truth out there. And you're going to stop them. Someone has to do it. The Corporations rule the world. They dump toxics, destabilize economies and commit murder with equal impunity. The Government won't stop them—they own the Government. The only thing between the Corporations and world domination is the Media. And that's you.</p>
+				<p>You've got a videocam and a press pass—and you're not afraid to use them. You're a national figure, seen nightly on a million TV sets worldwide. You've gotfans, contracts and your own Corporation backing you. They can't make you disappear. When you dig down for the dirt and slime the corrupt officials and Corporate lapdogs try to cover up, you can dig deep. The next morning, you can put the details of their crimes all over the screamsheets and vidscreens. Then the Government has to act.</p>
+				<p>A week ago, you followed a hot lead and discovered a medical corporation dumping illegal drugs on the Street. This week, you're uncovering a secret Corporate war in South America—a war with jets, bombs, and cybertroops that's killed almost seven thousand innocent people. Each new story you get to the air is one more blow for freedom and justice. Not to mention ratings.</p>
+				<p>It isn't easy. They've tried to pressure your Mediacorp dozens of times. You've had stories suppressed—once, Corporate pressure forced them to cancel your news show. Each time, you went to the top, backed by your news director and your crew, and fought to get the story out. Three or four times, they tried to kill you—that's why your backup's a crack Solo bodyguard and you've got one of the top 'Runners in the business digging through the Net to back your stories. You have to be good, or else.</p>
+				<p>Your 'Runner's just phoned in with a hot lead. He's found a line on twenty tons of illegal weapons being shifted to a port in Bolivia—possibly nuclear. You grab your gear and flag your backup. You're going to break those bastards.</p>
+				<p>This time, for sure.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00007@Cyberpunk 2020 - Skills">Credibilit</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00075@Cyberpunk 2020 - Skills">Composition</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00063@Cyberpunk 2020 - Skills">Persuasion &amp; Fast Talk</link>
+					<link class="skill" recordname="skill.id-00061@Cyberpunk 2020 - Skills">Human Perception</link>
+					<link class="skill" recordname="skill.id-00064@Cyberpunk 2020 - Skills">Social</link>
+					<link class="skill" recordname="skill.id-00060@Cyberpunk 2020 - Skills">Streetwise</link>
+					<link class="skill" recordname="skill.id-00026@Cyberpunk 2020 - Skills">Photo &amp; Film</link>
+					<link class="skill" recordname="skill.id-00067@Cyberpunk 2020 - Skills">Interview</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00005>
+		<id-00006>
+			<locked type="number">1</locked>
+			<name type="string">Cop</name>
+			<text type="formattedtext">
+				<h>MAXIMUM LAWMEN ON MEAN 21ST CENTURY STREETS</h>
+				<p>In the old days, they only used to shoot at cops. Nowyou're lucky ifyou just take a slug. The Street is mean these days, filled with new drugs, new gangs, and new weapons that make an M-16 look like a kid's toy. If you're on a City Force, you know how bad it is. You're carrying at least four high caliber weapons, most of them full-auto types, wearing a Kevlar vest that'll stop 850 ft/lbs per square inch—and you're still outgunned and outflanked. Half the gangs are cyber to begin with—super speed, super reflexes, can see in the dark, carry weapons in their arms...The other half are freelance Corporate mercs—gangs hired by the Corps to enforce their policies on the Street. And there you are—a beat cop or detective in an armored squadcar, patrolling this jungle with the heavy predators.</p>
+				<p>The Corporate Cops—now that's the life. Heavy weapons, full combat armor, Trauma Team™ backup, AV-4 assault vehicles and gyrocopters with miniguns. But they only patrol the sectors of the City that the Government's licensed them for. The nice, clean sectors full of new office buildings and fancy restaurants—where no jacked up psychopunk is going to ever go on a killing spree with an AK-47. You get the bad sections. Burned out buildings and abandoned cars, where every night is a new firefight and another great opportunity for a messy death.</p>
+				<p>If you're really unlucky, you might draw PsychoSquad detail. PsychoSquad guys get the job of hunting down heavily armed and armored cyborgs who've flipped out. Sure, the PS guys have access to railguns, gyros and AVs. But a cyberpsycho can walk through machine gun fire and not feel it. A lot of the Psycho Squad detectives are crazy them­selves. They load up with, boosted reflexes, get some monsterously huge guns, and go hunt the cyborgs solo. But you're not that crazy.</p>
+				<p>Yet.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00006@Cyberpunk 2020 - Skills">Authority</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00050@Cyberpunk 2020 - Skills">Handgun</link>
+					<link class="skill" recordname="skill.id-00061@Cyberpunk 2020 - Skills">Human Perception</link>
+					<link class="skill" recordname="skill.id-00034@Cyberpunk 2020 - Skills">Athletics</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00043@Cyberpunk 2020 - Skills">Brawling</link>
+					<link class="skill" recordname="skill.id-00048@Cyberpunk 2020 - Skills">Melee</link>
+					<link class="skill" recordname="skill.id-00042@Cyberpunk 2020 - Skills">Interrogation</link>
+					<link class="skill" recordname="skill.id-00060@Cyberpunk 2020 - Skills">Streetwise</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00006>
+		<id-00007>
+			<locked type="number">1</locked>
+			<name type="string">Corporate</name>
+			<text type="formattedtext">
+				<h>SLICK BUSINESS RAIDERS AND MULTI-MILLIONAIRES</h>
+				<p>In the old days, they would have called you a yuppie—a hard driven, fast-track MBA on his way up the Corporate ladder. Sure, it's selling your soul to the Company, but face it; the Corporations rule the Cyberpunk world. They control governments, markets, nations, armies—you name it. And you know that whoever controls the Corporations controls everything else.</p>
+				<p>Right now, your life as a junior executive is anything but easy. There are guys underneath you who'd kill for a shot at your job. There are guys over you who'd kill to keep you out of their jobs. And they're not kidding about the killing—every up and comer in the Corporation has his own crew of Solos and Netrunners to cover his pet projects. Sabotage? Constantly. Bribery? Routine. Blackmail? Common. Promotion by assassination? Always a possibilty. The stakes are that high—one slip and you could be out on the Street with the rest of the trash. Or dead.</p>
+				<p>And the projects your supervisors give you! Some are pretty straightforward; design a new productivity schedule for the Corporation's medical subsidiary. Some are pretty raw—send a "black operations" team into the City to spread a designer plague so the Marketing team can clean up selling the vaccine. Last week, you led a mixed team of Solos, 'Runners andTechies on a headhunting run to kidnap a researcher from a rival company. The week before, your project was to steal plans for a new suborbital shuttle from the EuroSpace Agency (so that the Aero­space Division could copy the design and sell it to the Soviets).</p>
+				<p>You told yourself you joined the Corporation to make it a better place—work from the inside, you said. But now you're not so sure. Your ideals are a little tarnished and things are getting pretty bleak. But you can't worry about ethics now. You've got a report due in an hour, and it looks like that guy in Sales is planning to ice your database for good. You're gonna ice him first.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00010@Cyberpunk 2020 - Skills">Resources</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00061@Cyberpunk 2020 - Skills">Human Perceptio</link>
+					<link class="skill" recordname="skill.id-00077@Cyberpunk 2020 - Skills">Education &amp; GenKnow</link>
+					<link class="skill" recordname="skill.id-00084@Cyberpunk 2020 - Skills">Library Search</link>
+					<link class="skill" recordname="skill.id-00064@Cyberpunk 2020 - Skills">Social</link>
+					<link class="skill" recordname="skill.id-00063@Cyberpunk 2020 - Skills">Persuasion &amp; Fast Talk</link>
+					<link class="skill" recordname="skill.id-00089@Cyberpunk 2020 - Skills">Stock Market</link>
+					<link class="skill" recordname="skill.id-00012@Cyberpunk 2020 - Skills">Wardrobe &amp; Style</link>
+					<link class="skill" recordname="skill.id-00011@Cyberpunk 2020 - Skills">Personal Grooming</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00007>
+		<id-00008>
+			<locked type="number">1</locked>
+			<name type="string">Fixer</name>
+			<text type="formattedtext">
+				<h>DEAL MAKERS, SMUGGLERS, ORGANIZERS AND INFORMATION BROKERS</h>
+				<p>You realized fast that you weren't ever going to get into a Corporate job. And you didn't think you were tough enough or crazy enough to be a Solo either. But as a small time punk, you knew you had a knack for figuring out what other people wanted, and how to get itfor them. For a price, of course.</p>
+				<p>Now your deals have moved past the nickle-­and-dime stuff into the big time. Maybe you move illegal weapons over the border. Or steal and resell medical supplies from the Corporations. Perhaps you're a skill broker acting as an agent for high priced Solos and 'Runners, or even hiring a whole Nomad pack to back a client's contracts. You buy and sell favors like an old-style Mafia godfather. You have connections into all kinds of busi­nesses, deals and political groups. You don't do this directly, of course—no, you use your contacts and allies as part of a vast web of intrigue and coersion. If there's a hot night­club in the City, you've bought into it. If there are new military-class weapons on the Street, you smuggled 'em in. If there's a Corporate war going down, you're negotiating between sides with an eye on the main chance.</p>
+				<p>But you're not entirely in it for the bucks. If someone needs to get the heat off, you'll hide them. You get people housing when there isn't any, and you bring in food when the neighbor­hoods are blockaded. Maybe you do it because you know they'll owe you later, but you're not sure. You're one part Robin Hood and two parts Al Capone. Back in the 90's, they would have called you a crimelord. But this is the fragmented, nasty, deadly 2020s. Now they call you a Fixer.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00003@Cyberpunk 2020 - Skills">Streetdeal</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00018@Cyberpunk 2020 - Skills">Forgery</link>
+					<link class="skill" recordname="skill.id-00050@Cyberpunk 2020 - Skills">Handgun</link>
+					<link class="skill" recordname="skill.id-00043@Cyberpunk 2020 - Skills">Brawling</link>
+					<link class="skill" recordname="skill.id-00048@Cyberpunk 2020 - Skills">Melee</link>
+					<link class="skill" recordname="skill.id-00024@Cyberpunk 2020 - Skills">Pick Lock</link>
+					<link class="skill" recordname="skill.id-00021@Cyberpunk 2020 - Skills">Pick Pocket</link>
+					<link class="skill" recordname="skill.id-00054@Cyberpunk 2020 - Skills">Intimidate</link>
+					<link class="skill" recordname="skill.id-00063@Cyberpunk 2020 - Skills">Persuasion &amp; Fast Talk</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00008>
+		<id-00009>
+			<locked type="number">1</locked>
+			<name type="string">Nomad</name>
+			<text type="formattedtext">
+				<h>ROAD WARRIORS AND GYPSIES WHO ROAM THE HIGHWAYS</h>
+				<p>They drove your family off the Farm tenyearsago. The Corpo­rations rolled in, took over the land, and put rent-a­-cops all over the place. It wasn't the first time it'd happened; it wouldn't be the last. Gradually, your family fell in with a bunch of other homeless families, and they met another group...until you'd created a Nomad pack of nearly two hundred mem­bers.</p>
+				<p>Now, crammed into a huge, ragtag fleet of cars, vans, buses and RV's, your Nomad pack roams the freeways. You look for supplies, odd jobs and spare parts in a world where society has fragmented. The pack is your home—it has teachers, MedTechs, leaders, and mechanics—it's virtually a town on wheels in which everyone is related by mar­riage or kinship. Sometimes the Pack pulls into a town just to fuel up or get grub. Other times, it swings south to follow the harvest; you pick crops in trade for cash or food. Less law abiding Packs are like mobile armies, terrorizing cities and hiring out as muscle in Corporate wars. For obvious reasons, the cops don't like Nomads. But it doesn't mat­ter—your vehicles are usually well armored and bristling with stolen weapons; mini guns, rocket launchers and the like. Every kid knows how to use a rifle, and everyone packs a knife. Being homeless in the 2000's isn't easy.</p>
+				<p>The most visible members of the Pack are the Scouts—leather armored riders on bikes or in fast muscle cars, who protect the convoy from attacks and hunt up safe campsites. As a Scout, you're on the lookout for trouble, and you usually can find enough of it, with rival Nomad Packs, the Law, and the Corporates all after you. Like a modern day cowboy, you ride the hard trail. You've got a gun, a bike and that's all you need.</p>
+				<p>You're a Nomad.</p>
+				<h>Career Skills</h>
+				<linklist>
+					<link class="skill" recordname="skill.id-00002@Cyberpunk 2020 - Skills">Family</link>
+					<link class="skill" recordname="skill.id-00071@Cyberpunk 2020 - Skills">Awareness/Notice</link>
+					<link class="skill" recordname="skill.id-00057@Cyberpunk 2020 - Skills">Endurance</link>
+					<link class="skill" recordname="skill.id-00048@Cyberpunk 2020 - Skills">Melee</link>
+					<link class="skill" recordname="skill.id-00038@Cyberpunk 2020 - Skills">Rifle</link>
+					<link class="skill" recordname="skill.id-00052@Cyberpunk 2020 - Skills">Driving</link>
+					<link class="skill" recordname="skill.id-00015@Cyberpunk 2020 - Skills">Basic Tech</link>
+					<link class="skill" recordname="skill.id-00093@Cyberpunk 2020 - Skills">Wilderness Survival</link>
+					<link class="skill" recordname="skill.id-00043@Cyberpunk 2020 - Skills">Brawling</link>
+					<link class="skill" recordname="skill.id-00034@Cyberpunk 2020 - Skills">Athletics</link>
+				</linklist>
+				<list>
+					<li>40 skill points for Career Skills</li>
+					<li>INT + REF for Pickup Skills (cannot be used for Career Skills)</li>
+				</list>
+			</text>
+		</id-00009>
+	</referencerole>
+</root>
